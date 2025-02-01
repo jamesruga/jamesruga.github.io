@@ -1038,6 +1038,9 @@ button {
     padding: 0px;
     display: inline-block;
     text-align: center;
+    background-color: #00ea42;
+    background-size: 100% auto;
+    border-radius: 10px;
 }
 
 .social_icon li {
